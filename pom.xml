@@ -122,9 +122,9 @@
    
   
   
-  <build>
+  <!-- <build>
     <defaultGoal>install</defaultGoal>  
     <directory>/home/projectmvnPKG</directory>  
     <finalName>server1.01</finalName> 
-  </build>
+  </build> -->
 </project>
